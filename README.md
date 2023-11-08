@@ -1,6 +1,6 @@
-## 👋🏾 Hey there, let me write something about myself
+# 👋🏾 Hey there, let me write something about myself
 
-![write](https://github.com/ARoble/ARoble/assets/45190868/61b34791-dfda-416f-96de-0ca3815b04f7)
+![write](https://github.com/ARoble/ARoble/assets/45190868/61b34791-dfda-416f-96de-0ca3815b04f7 =250x)
 
 I am Roble a full stack developer currently working as a lead instructor at Fikrcamp
 

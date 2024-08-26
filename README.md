@@ -1,18 +1,18 @@
 ### 👋🏾 Hey there, let me write something about myself
 
 <!--![write](https://github.com/ARoble/ARoble/assets/45190868/61b34791-dfda-416f-96de-0ca3815b04f7 =250x)-->
-<img src="https://github.com/ARoble/ARoble/assets/45190868/61b34791-dfda-416f-96de-0ca3815b04f7" height="200">
 
-I am Roble a full stack developer currently working as a lead instructor at Fikrcamp
+
+I am Abdulkadir who's learning a full stack course currently  at Fikrcamp
 
 Bio: 
 
-- 🏢 Lead instructor at Fikrcamp
-- 🏗️ Build with: `React`, `Node`, `MongoDB`, `Next Js`, `Tailwind` ...
-- 🌱 I’m currently learning cloud
-- ⚡ Fun fact: Arsenal Fan 🔴
+- 🏢 Student at Fikrcamp
+- 🏗️ Build with: `HTML`, `CSS`, `JAVASCRIPT`, `NEXT JS`, `MangoDB` ...
+- 🌱 I’m currently learning Front-End 
+- ⚡ Fun fact: Love The Quran 🔴
 <!--
-**ARoble/ARoble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
